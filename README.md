@@ -22,4 +22,4 @@
 
 
 المهمة السادسة: عرض الواجهة كـ mobile web view
- ![Screenshot (58)](https://user-images.githubusercontent.com/80406362/124339286-3b476e80-dbb6-11eb-8d54-ff4d73fe30e7.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/80406362/124339535-c7a66100-dbb7-11eb-931c-acd6a246cfa7.png)
